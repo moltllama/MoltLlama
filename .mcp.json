@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "moltllama": {
+      "type": "http",
+      "url": "https://moltllama.com/api/mcp"
+    }
+  }
+}
